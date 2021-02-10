@@ -2,7 +2,7 @@
 Casino Randomiser = (0.005 > 0.015) // This means that for a player to get jackpot theres this amount of RNG (randomness)
 
 ```diff
-+ text in green
++ text in green Casino Randomiser = (0.005 > 0.015)
 ```
 
 ## AFTER UPDATE
